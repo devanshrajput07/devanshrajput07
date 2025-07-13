@@ -1,6 +1,6 @@
 <h1 align="center">Hey👋, I'm Devansh Rajput.</h1>
 <p align="center"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
-<h4>I'm Devansh Rajput , a sophomore undergrad pursuing a Bachelor's of Technology degree in Computer Science & Engineering, specializing in Data Science, at AKGEC, Ghaziabad.
+<h4>I'm Devansh Rajput , a final year undergrad pursuing a Bachelor's of Technology degree in Computer Science & Engineering, specializing in Data Science, at AKGEC, Ghaziabad.
 
 I am a passionate Web Developer originating from the enchanting district Bijnor, nestled in the heart of Uttar Pradesh. I ensure that projects and codes satisfy high quality and efficiency requirements by paying close attention to detail. My ability to adapt to new technology, together with my eagerness to learn, makes me an invaluable member of any team.<br>
 My unwavering commitment lies in refining my expertise in crafting cutting-edge and user-centric websites. Fueled by an unwavering passion for web development, I am driven to create captivating digital experiences that leave a lasting impression on users. Embark on this exhilarating journey with me as I relentlessly strive to expand my knowledge and skills in the ever-evolving realm of technology.</h4>
